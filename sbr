@@ -1,4 +1,7 @@
 cloud 
 watch 
 datadog
-nagiouse
+nagious
+grafana
+newrelic
+prometheous
